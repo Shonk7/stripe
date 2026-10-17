@@ -1,0 +1,22 @@
+===== APPLICATION LOG REPORT =====
+
+Total events: 1000
+Total errors: 88
+Total warnings: 143
+
+Events by severity:
+    769 INFO
+    143 WARN
+     88 ERROR
+
+Errors by service:
+api 28
+cache 33
+database 27
+
+Top 5 error messages:
+     33 out of memory
+     31 database unavailable
+     24 connection timeout
+
+===== END REPORT =====
